@@ -76,6 +76,11 @@ namespace uveghaz_rendszer
 				this.noveny = null;
 			}
 		}
+		public void Urit()
+		{
+			this.egyedszam = 0;
+			this.noveny = null;
+		}
 
 	}
 }
