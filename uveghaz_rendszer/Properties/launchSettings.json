@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "uveghaz_rendszer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
