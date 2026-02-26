@@ -13,6 +13,7 @@
             cella.Beultet(n1, 5);
             Console.WriteLine(cella.Urescella);
 
+            Uveghazracs uveghaz = new Uveghazracs(4);
 
 
 
